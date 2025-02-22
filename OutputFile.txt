@@ -1,0 +1,2 @@
+(22, 'Eastern Bluebird', 6)
+(22, 'Baltimore Oriole', 6)
